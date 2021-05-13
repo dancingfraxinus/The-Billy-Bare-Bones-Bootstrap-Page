@@ -1,9 +1,9 @@
 /*
 Billy Bare Bones Bootstrap Starter Page - Cover Page Edition
-Version 1.0
-by Ashlie Elizabeth Moore 
+Version 2.0
+by Elizabeth Moore
 http://DancingFraxinus.com
-Copyright 2019
+Copyright 2021
 For Personal Use Only.
 Image Credit: @anniespratt - Unsplash
 
@@ -38,9 +38,9 @@ p.lead{
     height: 100%;
     background-image: url("https://images.unsplash.com/photo-1547013571-585f53927cd4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: center;
     background-size: cover;
-    
+
 }
 
 @media screen and (min-width: 800px){
@@ -49,7 +49,7 @@ p.lead{
     top: 40%;
     left: 60%;
     transform: translate(-50%, -50%);
-    color: azure; 
+    color: azure;
 }}
 
 @media screen and (max-width: 799px){
@@ -58,7 +58,7 @@ p.lead{
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: azure; 
+    color: azure;
 }}
 
 
@@ -69,9 +69,9 @@ p.lead{
 /* Components */
 
 #cookies{
-    font-size: .75em;    
+    font-size: .75em;
 }
 
 span{
-     font-size: .75em;      
+     font-size: .75em;
 }
